@@ -15,7 +15,9 @@ public class Test {
         System.out.println("做广播体操");
     }
 
-
+ public void BubbleLibrary2(){
+        System.out.println("泡图书馆");
+    }
 }
 
 
